@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="320px" preserveAspectRatio="none" style="width:580px;height:320px;" version="1.1" viewBox="0 0 580 320" width="580px" zoomAndPan="magnify"><defs/><g><!--MD5=[a6f11bb19cee6b13000111f5ad685e8b]
+cluster Dependencies--><path d="M211,225 L305,225 A4.5,4.5 0 0 1 308,228 L315,245.4844 L552,245.4844 A3,3 0 0 1 555,248.4844 L555,305 A3,3 0 0 1 552,308 L211,308 A3,3 0 0 1 208,305 L208,228 A3,3 0 0 1 211,225 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="208" x2="315" y1="245.4844" y2="245.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="94" x="212" y="239.0059">Dependencies</text><!--MD5=[347006558c012fcf93e7c42a4ff262a5]
+entity filefy--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="47" x="408.5" y="258"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="403.5" y="263"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="403.5" y="282.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="27" x="418.5" y="280.0059">filefy</text><!--MD5=[ebd45b81493b019a929b6088e2a5575c]
+entity jspdf--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="49" x="224.5" y="258"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="219.5" y="263"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="219.5" y="282.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="29" x="234.5" y="280.0059">jspdf</text><!--MD5=[fba97798f5177c0e328564db610bad9f]
+entity jspdf-autotable--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="108" x="287" y="258"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="282" y="263"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="282" y="282.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="88" x="297" y="280.0059">jspdf-autotable</text><!--MD5=[83d7c66368a3272c2ae5778d39252274]
+entity webpack--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="70" x="469" y="258"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="464" y="263"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="464" y="282.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="50" x="479" y="280.0059">webpack</text><ellipse cx="349.2013" cy="21.9403" fill="#F8F8F8" rx="57.7013" ry="13.9403" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="82" x="308.2013" y="25.6824">babel.config</text><ellipse cx="407.1421" cy="104.242" fill="#F8F8F8" rx="17.1421" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="20" x="397.1421" y="107.9842">csv</text><ellipse cx="249.163" cy="22.242" fill="#F8F8F8" rx="29.163" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="37" x="230.663" y="25.9842">demo</text><ellipse cx="81.2321" cy="162.4464" fill="#F8F8F8" rx="75.2321" ry="17.4464" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="125" x="18.7321" y="166.1886">Helvetica_400-normal</text><ellipse cx="456.234" cy="22.242" fill="#F8F8F8" rx="36.234" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="47" x="432.734" y="25.9842">index.d</text><ellipse cx="352.7653" cy="104.2122" fill="#F8F8F8" rx="15.7653" ry="13.2122" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="18" x="343.7653" y="107.9544">pdf</text><ellipse cx="249.0405" cy="162.4081" fill="#F8F8F8" rx="80.0405" ry="18.4081" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="136" x="181.0405" y="166.1503">Roboto-Medium-normal</text><ellipse cx="305.8492" cy="104.242" fill="#F8F8F8" rx="17.8492" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="21" x="295.3492" y="107.9842">src</text><ellipse cx="503.9562" cy="162.5912" fill="#F8F8F8" rx="65.9562" ry="15.5912" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="103" x="452.4562" y="166.3334">webpack.config</text><!--MD5=[1309227f4555a9d2158aed4341f9862f]
+link csv to filefy--><path d="M408.798,117.154 C413.013,145.648 423.575,217.044 428.87,252.8414 " fill="none" id="csv-&gt;filefy" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="429.612,257.8554,432.2517,248.3669,428.8802,252.9092,424.3379,249.5377,429.612,257.8554" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[6650d0f7b0522b170b47e803ab097cd8]
+link <b>demo</b> to Helvetica_400-normal--><path d="M235.817,33.868 C207.497,57.215 140.516,112.434 104.6462,142.006 " fill="none" id="&lt;b&gt;demo&lt;/b&gt;-&gt;Helvetica_400-normal" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="100.4307,145.481,109.9197,142.8431,104.2889,142.3007,104.8313,136.6699,100.4307,145.481" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[a3e5264c334c19a63dc26fed81829a6c]
+link <b>demo</b> to pdf--><path d="M263.026,33.789 C282.489,48.76 317.557,75.736 337.683,91.218 " fill="none" id="&lt;b&gt;demo&lt;/b&gt;-&gt;pdf" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="341.74,94.339,337.0455,85.6809,337.777,91.2903,332.1676,92.0218,341.74,94.339" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[2ee609ff6e2573adacafdb18a70f200b]
+link <b>demo</b> to Roboto-Medium-normal--><path d="M249,35.291 C249,58.476 249,108.99 249,138.601 " fill="none" id="&lt;b&gt;demo&lt;/b&gt;-&gt;Roboto-Medium-normal" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="249,143.875,253,134.875,249,138.875,245,134.875,249,143.875" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[e237461d8a2def7ea55de5cb5427c5b9]
+link Helvetica_400-normal to jspdf--><path d="M105.0703,179.332 C135.461,199.321 187.69,233.674 220.176,255.0411 " fill="none" id="Helvetica_400-normal-&gt;jspdf" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="224.428,257.8381,219.1061,249.5509,220.2504,255.0908,214.7105,256.2351,224.428,257.8381" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[5a4f168c9b83a7199d38563e8690187c]
+link pdf to jspdf--><path d="M352.828,117.177 C352.037,133.194 348.63,161.576 335,181 C318.218,204.914 299.8,195.518 280,217 C270.314,227.5091 262.614,241.602 257.311,253.1452 " fill="none" id="pdf-&gt;jspdf" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="255.187,257.9183,262.5012,251.3227,257.2203,253.3504,255.1926,248.0694,255.187,257.9183" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[f975096039428cd47fb76bbe25056426]
+link pdf to jspdf-autotable--><path d="M355.312,116.894 C356.689,124.591 358.3,134.847 359,144 C361.203,172.805 362.89,180.374 359,209 C356.954,224.0573 352.356,240.5521 348.32,253.1576 " fill="none" id="pdf-&gt;jspdf-autotable" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="346.75,257.9594,353.3493,250.6485,348.3041,253.2071,345.7455,248.1619,346.75,257.9594" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[03b97aded5256c938eff63c71408173d]
+link Roboto-Medium-normal to jspdf--><path d="M249,181.254 C249,200.713 249,231.9226 249,252.6894 " fill="none" id="Roboto-Medium-normal-&gt;jspdf" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="249,257.7306,253,248.7306,249,252.7306,245,248.7306,249,257.7306" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[5f6e5c5871798841c85ff49a9a6da9dd]
+link <b>src</b> to csv--><path d="M315.466,92.558 C320.942,86.858 328.352,80.545 336.5,77.5 C349.822,72.521 354.919,73.278 368.5,77.5 C377.098,80.173 385.477,85.508 392.21,90.695 " fill="none" id="&lt;b&gt;src&lt;/b&gt;-&gt;csv" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="396.177,93.88,391.6651,85.1254,392.2788,90.7489,386.6553,91.3625,396.177,93.88" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[765264750cf9abf251cb3288d82c7277]
+link <b>src</b> to pdf--><path d="M324.359,104 C326.839,104 329.319,104 331.799,104 " fill="none" id="&lt;b&gt;src&lt;/b&gt;-&gt;pdf" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="336.89,104,327.89,100,331.89,104,327.89,108,336.89,104" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[089ad03f8697effb2f4ae3776d83f483]
+link <b>webpack.config</b> to webpack--><path d="M504,178.403 C504,197.6 504,231.0864 504,252.896 " fill="none" id="&lt;b&gt;webpack.config&lt;/b&gt;-&gt;webpack" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="504,257.9028,508,248.9028,504,252.9028,500,248.9028,504,257.9028" style="stroke: #000000; stroke-width: 1.0;"/><script type="text/plantuml"><![CDATA[MD5=[71b98b4d87f551369739e208343edc14]
+@startuml
+
+scale max 1920 width
+top to bottom direction
+
+skinparam nodesep 13
+skinparam ranksep 27
+skinparam monochrome true
+skinparam shadowing false
+skinparam defaultFontName Tahoma
+skinparam defaultFontSize 12
+skinparam roundCorner 6
+skinparam dpi 150
+skinparam arrowColor black
+skinparam arrowThickness 0.5
+skinparam packageTitleAlignment left
+
+skinparam usecase {
+  borderThickness 0.5
+}
+
+skinparam rectangle {
+  borderThickness 0.5
+}
+
+skinparam component {
+  borderThickness 1
+}
+
+
+(<b>babel.config</b>)
+(csv)
+(<b>demo</b>)
+(Helvetica_400-normal)
+(<b>index.d</b>)
+(pdf)
+(Roboto-Medium-normal)
+(<b>src</b>)
+(<b>webpack.config</b>)
+
+package "Dependencies" {
+  [filefy]
+  [jspdf]
+  [jspdf-autotable]
+  [webpack]
+}
+
+(csv) ----> [filefy]
+(<b>demo</b>) -[thickness=1]> (Helvetica_400-normal)
+(<b>demo</b>) ---[thickness=1]> (pdf)
+(<b>demo</b>) -[thickness=1]> (Roboto-Medium-normal)
+(Helvetica_400-normal) ---> [jspdf]
+(pdf) ----> [jspdf]
+(pdf) ----> [jspdf-autotable]
+(Roboto-Medium-normal) ---> [jspdf]
+(<b>src</b>) -[thickness=1]> (csv)
+(<b>src</b>) -[thickness=1]> (pdf)
+(<b>webpack.config</b>) ---[thickness=1]> [webpack]
+
+@enduml
+
+
+' View and edit on https://arkit.pro
+]]></script></g></svg>
